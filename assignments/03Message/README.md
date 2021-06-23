@@ -21,7 +21,7 @@ Modifica el programa para que le pidas al usuario que teclee algo, y despliega l
 Ejemplo cuando el usuario teclea `Hola crayola`
 ```
 Escribe un mensaje:
-*hola crayolat*
+*hola crayola*
 hola crayola
 ```
 
