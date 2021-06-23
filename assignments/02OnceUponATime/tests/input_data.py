@@ -6,6 +6,6 @@ input_values = [
     (
         ["","",""],
         ["Once upon a time","there was", "a program"],
-        "Debe de decir: Once upon a time there was a program"
+        "Debe de decir: \nOnce upon a time\nthere was\na program"
     )
 ]
