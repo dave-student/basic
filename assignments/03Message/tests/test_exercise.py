@@ -3,7 +3,7 @@ import src.exercise
 from tests.input_data import input_values, output_values, error_messages
 
 # Define the parametrization based on the inputs from the input_data file
-@pytest.mark.parametrize('value, result, message', zip(input_values, output_values, error_messages))
+@pytest.mark.parametrize('value, result, message', input_values)
 
 def test_exercise(value, result, message):
     """
