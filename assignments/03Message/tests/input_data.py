@@ -1,16 +1,11 @@
-# IMPORTANT: The length of the lists has to be the same
+# List of tuples
+# Each tuple contains a test: the first element are the inputs, the second are the output, and the third is the message in case of an error
+# To test another case, add another tuple
 
-# List of lists, where each of the inner lists has all the inputs for a single test
 input_values = [
-    ["Hola crayola"]
-    ]
-
-# List of lists, where each inner list has all the output/prints that end in the terminal
-output_values = [
-    ["Escribe un mensaje:","Hola crayola"]
-    ]
-
-# List of hints for each test, in case of an error
-error_messages = [
-    ["Debe de decir lo mismo que capturó el usuario"]
-    ]
+    (
+        ["Hola crayola"],
+        ["Escribe un mensaje:","Hola crayola"],
+        "Debe de decir lo mismo que capturó el usuario"
+    )
+]
