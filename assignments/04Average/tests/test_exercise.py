@@ -31,11 +31,12 @@ def test_exercise(value, result, message):
             output.append(input_s)
         else:
             output.append("")
-            
+
         return value.pop(0)
 
     src.exercise.input = mock_input
-    src.exercise.print = lambda s : output.append(s)
+    #src.exercise.print = lambda s : output.append(s)
+    src.exercise.print = lambda *args: output.append(" ".join(map(str, args)))
 
     src.exercise.main()
 
