@@ -14,8 +14,39 @@ sudo -H pip3 install pytest
     ```
     pytest assignments/00HelloWorld
     ```
-- ## 01 Operaciones básicas
+
+- ## 01 Operaciones Básicas
     ### Run command
     ```
     pytest assignments/01OperacionesBasicas
+    ```
+
+- ## 02 Área Triángulo
+    ### Run command
+    ```
+    pytest assignments/02AreaTriangulo
+    ```
+
+- ## 03 Premedio Calificaciones
+    ### Run command
+    ```
+    pytest assignments/03Promedio
+    ```
+
+- ## 04 Calcula tiempo
+    ### Run command
+    ```
+    pytest assignments/04CalculaTiempo
+    ```
+
+- ## 05 Calcula lustros
+    ### Run command
+    ```
+    pytest assignments/05Lustros
+    ```
+
+- ## 06 Calcula peso por mes
+    ### Run command
+    ```
+    pytest assignments/06Peso
     ```
