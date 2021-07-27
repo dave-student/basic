@@ -50,3 +50,39 @@ sudo -H pip3 install pytest
     ```
     pytest assignments/06Peso
     ```
+
+- ## 06 Calcula peso por mes
+    ### Run command
+    ```
+    pytest assignments/06Peso
+    ```
+
+- ## 18 Cuenta Bancaria
+    ### Run command
+    ```
+    pytest assignments/18CuentaBancaria
+    ```
+
+- ## 19 Editorial
+    ### Run command
+    ```
+    pytest assignments/19Editorial
+    ```
+
+- ## 20 Acertijo Edad
+    ### Run command
+    ```
+    pytest assignments/20AcertijoEdad
+    ```
+
+- ## 21 Levadura para Pizza
+    ### Run command
+    ```
+    pytest assignments/21LevaduraParaPizza
+    ```
+
+- ## 22 Digitos Pares
+    ### Run command
+    ```
+    pytest assignments/22DigitosPares
+    ```
