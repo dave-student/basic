@@ -8,6 +8,7 @@ Modifica el programa que se encuentra en la carpeta `src` que se llama `exercise
 def main():
     #escribe tu código abajo de esta línea
     #El mensaje para recibir el dato debe ser **"Area a pintar en metros: ** y **Rendimiento (m2/l): ** "
+    #El mensaje para la salida debe ser **"Litros a comprar: **"
     
 
 if __name__ == '__main__':
@@ -34,7 +35,7 @@ Ejemplo:
 ```
 Area a pintar en metros: 857.5
 Rendimiento (m2/l): 10
-86
+Litros a comprar: 86
 ```
 
 **Nota:** No te preocupes por esta parte del código `if __name__ == '__main__':` por el momento. No la vamos a necesitar para este programa, pero es una buena práctica incluirla y quedará más claro para que sirve en los siguientes ejercicios.
