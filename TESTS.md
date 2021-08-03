@@ -75,6 +75,12 @@ sudo -H pip3 install pytest
     pytest assignments/10Videojuego
     ```
 
+- ## 11 PEMDAS
+    ### Run command
+    ```
+    pytest assignments/11PEMDAS
+    ```
+
 - ## 18 Cuenta Bancaria
     ### Run command
     ```
