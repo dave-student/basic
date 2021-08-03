@@ -51,10 +51,10 @@ sudo -H pip3 install pytest
     pytest assignments/06Peso
     ```
 
-- ## 06 Calcula peso por mes
+- ## 07 Pendiente Línea
     ### Run command
     ```
-    pytest assignments/06Peso
+    pytest assignments/07PendienteLinea
     ```
 
 - ## 18 Cuenta Bancaria
