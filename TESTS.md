@@ -69,6 +69,12 @@ sudo -H pip3 install pytest
     pytest assignments/09Telefono
     ```
 
+- ## 10 Videojuego
+    ### Run command
+    ```
+    pytest assignments/10Videojuego
+    ```
+
 - ## 18 Cuenta Bancaria
     ### Run command
     ```
