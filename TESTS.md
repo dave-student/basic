@@ -63,6 +63,12 @@ sudo -H pip3 install pytest
     pytest assignments/08Caracol
     ```
 
+- ## 09 Teléfono
+    ### Run command
+    ```
+    pytest assignments/09Telefono
+    ```
+
 - ## 18 Cuenta Bancaria
     ### Run command
     ```

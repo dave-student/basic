@@ -10,6 +10,7 @@
 - 06 Calcula peso por mes
 - 07 Pendiente Línea
 - 08 Caracol
+- 09 Teléfono
 - 18 Cuenta Bancaria
 - 19 Editorial
 - 20 Acertijo Edad
