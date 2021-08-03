@@ -57,6 +57,12 @@ sudo -H pip3 install pytest
     pytest assignments/07PendienteLinea
     ```
 
+- ## 08 Caracol
+    ### Run command
+    ```
+    pytest assignments/08Caracol
+    ```
+
 - ## 18 Cuenta Bancaria
     ### Run command
     ```
