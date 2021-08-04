@@ -1,6 +1,5 @@
 ![Tec de Monterrey](../../images/logotecmty.png)
 # Distancia entre dos puntos
-
 Modifica el programa que se encuentra en la carpeta `src` que se llama `exercise.py` y que contiene el siguiente código:
 
 ```python
@@ -9,7 +8,6 @@ def main():
     #Desarrolla un programa en Python que calcule la distancia entre dos puntos del plano cartesiano.
     #Los mensajes para recibir las 4 entradas deben ser **"x1=    y1=     x2=   y2=   ** respectivamente "
     #El mensaje para la salida debe ser **"distancia= **"
-
 
 if __name__ == '__main__':
     main()
