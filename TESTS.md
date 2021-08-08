@@ -81,6 +81,30 @@ sudo -H pip3 install pytest
     pytest assignments/11PEMDAS
     ```
 
+- ## 13 Cantidad de Litros de Pintura
+    ### Run command
+    ```
+    pytest assignments/13CantidadLitrosPintura
+    ```
+
+- ## 14 Distancia Dos Puntos
+    ### Run command
+    ```
+    pytest assignments/14DistanciaDosPuntos
+    ```
+
+- ## 15 Escalera
+    ### Run command
+    ```
+    pytest assignments/15Escalera
+    ```
+
+- ## 17 Razon Aurea
+    ### Run command
+    ```
+    pytest assignments/17RazonAurea
+    ```
+
 - ## 18 Cuenta Bancaria
     ### Run command
     ```
