@@ -1,13 +1,8 @@
-import math
 def main():
     #escribe tu código abajo de esta línea
-    phi = (1 + math.sqrt(5)) / 2
-    f = float(input("Número: "))
-    k = int(input("Decimales a mostrar: "))
-
-    resultado = round(phi * f, k)
-
-    print(f"Razón áurea: {resultado}")
+    #El mensaje para recibir el dato debe ser **"Area a pintar en metros: ** y **Rendimiento (m2/l): ** "
+    #El mensaje para la salida debe ser **"Litros a comprar: **"
+    
 
 if __name__ == '__main__':
     main()
