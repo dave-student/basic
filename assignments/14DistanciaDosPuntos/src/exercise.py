@@ -1,14 +1,8 @@
-import math
 def main():
     #escribe tu código abajo de esta línea
-    #            
-    x1= float(input("x1= "))
-    y1= float(input("y1= "))
-    x2= float(input("x2= "))
-    y2= float(input("y2= "))
-
-    distancia = math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2)
-    print (f"distancia= {distancia:.2f}")
+    #Desarrolla un programa en Python que calcule la distancia entre dos puntos del plano cartesiano.
+    #Los mensajes para recibir las 4 entradas deben ser **"x1=    y1=     x2=   y2=   ** respectivamente "
+    #El mensaje para la salida debe ser **"distancia= **"
 
 if __name__ == '__main__':
     main()
